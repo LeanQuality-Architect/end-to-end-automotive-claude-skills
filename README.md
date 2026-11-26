@@ -1,5 +1,9 @@
 # End-to-End Automotive Quality & After-Sales Suite (Claude Skills)
 
+![End-to-End Automotive Suite](./suite-architecture.png)
+
+
+
 Eine modulare Suite aus drei spezialisierten **Claude Skills** für die präventive Reifegradabsicherung, datenbasierte Problemlösung und weltweite Service-Readiness in der Automobilindustrie (VDA MLA RG0–RG7 bis EOP + 10 Jahre).
 
 ## Architektur der Suite
