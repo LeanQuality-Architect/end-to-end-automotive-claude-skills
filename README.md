@@ -1,6 +1,7 @@
 # End-to-End Automotive Quality & After-Sales Suite (Claude Skills)
 
-![End-to-End Automotive Suite](./suite-architecture.png)
+![End-to-End Automotive Suite](./End-to-End%20Automotive%20Suite.png)
+
 
 
 
